@@ -65,7 +65,7 @@ For detailed information, refer to the **[subject of this project](https://githu
 
  <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl6.png"></p>
   
- ### Для успешного подключения в адрес шлюза указываем адрес интерфейса маршрутизатор. А в маршрут интернета указываем адрес сети узла
+ ### Для успешного подключения в адрес шлюза указываем адрес интерфейса маршрутизатора. А в маршрут интернета указываем адрес сети узла
   
  <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl6.1.png"></p>
   
