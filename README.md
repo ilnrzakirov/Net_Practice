@@ -37,12 +37,12 @@ For detailed information, refer to the **[subject of this project](https://githu
 <details>
 <summary>Четвертый уровень, домашняя сеть и роутер</summary>
   
-     <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl4.png"></p>
+ <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl4.png"></p>
  
   ### Подробнее о маршрутизаторе или роутер [здесь](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80)
   
   ### В этой задаче нам нужно подключить к сети роутер. Важно что бы интерфейс роутера и узлы находились в одной сети
   
-       <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl4.1.png"></p>
+ <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl4.1.png"></p>
   
 </details>
