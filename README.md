@@ -50,7 +50,15 @@ For detailed information, refer to the **[subject of this project](https://githu
 <details>
 <summary>Пятый уровень, статические маршруты</summary>
  
-### Подробнее о статических маршрутах [здесь](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
-### Подробнее о шлюзе [здесь](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D1%88%D0%BB%D1%8E%D0%B7)
+ <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl5.png"></p>
   
+### Подробнее о статических маршрутах [здесь](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+### Подробнее о сетевых шлюзах [здесь](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D1%88%D0%BB%D1%8E%D0%B7)
+  
+### В данной задаче необходимо правильно прописать маршруты. Для узла А адрес интерфейса маршрутизатора узла Б и наоборот для узла Б. Остльаные изменение по предыдущим уровням.
+  
+ <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl5.1.png"></p>
+ </details>
+ 
+ 
   
