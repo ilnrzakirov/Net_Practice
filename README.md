@@ -22,7 +22,7 @@ For detailed information, refer to the **[subject of this project](https://githu
  </details>
 
 <details>
-<summary>Третий уровень, домашняя сеть</summary>
+  <summary>Третий уровень, домашняя сеть</summary>
   
    <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl3.png"></p>
   
@@ -32,7 +32,7 @@ For detailed information, refer to the **[subject of this project](https://githu
   
   <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl3.1.png"></p>
   
-     </details>
+</details>
       
 <details>
 <summary>Четвертый уровень, домашняя сеть и роутер</summary>
