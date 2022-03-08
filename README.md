@@ -78,6 +78,6 @@ For detailed information, refer to the **[subject of this project](https://githu
 ### Для успешного соединения узлов необходимо в шлюзе клиента С указать адрес интерфейса маршрутизатора R22. Аналогично для клиента А. Далее настроить маршруты между роутерами так что бы они перенаправляли к друг другу.
   
 <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl7.1.png"></p>
-   </details>
+</details>
  
   
