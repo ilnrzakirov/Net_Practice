@@ -80,4 +80,12 @@ For detailed information, refer to the **[subject of this project](https://githu
 <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl7.1.png"></p>
 </details>
  
+<details>
+<summary>Восьмой уровень, подключение группы сетей к интернет</summary>
+  
+<p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl8.png"></p>
+  
+### Для успешного подключения офисные узлы надо разделить на подсети. Соответсвенно в маршрутах указать правильные адреса к интерфейсу роутера. Далее Роутеры соединяем в рамках одной сети. В маршрутах роутеров указываем перенаправление к друг другу. Адрес шлюза интернет указываем интерфейс роутера.
+  
+<p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl8.1.png"></p>
   
