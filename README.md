@@ -19,8 +19,7 @@ For detailed information, refer to the **[subject of this project](https://githu
   ### Все, как в предыдущем уровне. Адреса 127.0.0.0 - 127.255.255.255 нельзя использовать в локальных сетях (подробнее по ссылке https://ru.wikipedia.org/wiki/Localhost)
   
   <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl2.1.png"></p>
- 
-   </details>
+ </details>
 
 <details>
 <summary>Третий уровень, домашняя сеть</summary>
@@ -34,7 +33,7 @@ For detailed information, refer to the **[subject of this project](https://githu
   <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl3.1.png"></p>
   
      </details>
-     
+      
 <details>
 <summary>Четвертый уровень, домашняя сеть и роутер</summary>
   
@@ -46,4 +45,4 @@ For detailed information, refer to the **[subject of this project](https://githu
   
        <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl4.1.png"></p>
   
-     </details>
+</details>
