@@ -102,4 +102,6 @@ For detailed information, refer to the **[subject of this project](https://githu
  
 <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl9.1.png"></p>
   
+</details>
+  
  
