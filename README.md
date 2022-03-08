@@ -69,5 +69,14 @@ For detailed information, refer to the **[subject of this project](https://githu
   
  <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl6.1.png"></p>
   
+<details>
+<summary>Седьмой уровень, подключение узлов к друг другу через маршрутизаторы</summary>
+  
+ <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl7.png"></p>
+  
+ ### Для успешного соединения узлов необходимо в шлюзе клиента с указать адрес интерфейса маршрутизатора R22. Аналогично для клиента А. Далее настроить маршруты между роутерами так что бы они перенаправляли к друг другу.
+  
+  <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl7.1.png"></p>
+  
  
   
