@@ -21,3 +21,10 @@ For detailed information, refer to the **[subject of this project](https://githu
   <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl2.1.png"></p>
  
    </details>
+
+<details>
+<summary>Третий уровень, домашняя сеть</summary>
+  
+   <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl3.png"></p>
+  
+  ### подробнее о Switch можно прочитать [здесь](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D1%82%D0%B0%D1%82%D0%BE%D1%80)
