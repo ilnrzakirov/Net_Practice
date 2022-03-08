@@ -61,7 +61,7 @@ For detailed information, refer to the **[subject of this project](https://githu
  </details>
  
  <details>
-<summary>Шестой уровень, подключение к интернету</summary>
+<summary>Шестой уровень, подключение к интернет</summary>
 
  <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl6.png"></p>
   
