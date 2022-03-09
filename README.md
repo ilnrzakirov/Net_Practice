@@ -109,6 +109,6 @@ For detailed information, refer to the **[subject of this project](https://githu
   
 <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl10.png"></p>
   
-### Задача выполняется так же как и в 9 задаче. Особое внимание на маски сетей. 
+### Задача выполняется так же как и в 9. Особое внимание уделять на маски сетей. 
   
 <p><img src="https://github.com/ilnrzakirov/Net_Practice/blob/main/img/lvl10.1.png"></p>
